@@ -1,0 +1,52 @@
+{
+  "model": "CrossEncoder_Reranking",
+  "cross_encoder_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+  "dataset": {
+    "total_documents": 20000,
+    "total_queries": 800,
+    "reranking_candidates": 40000
+  },
+  "performance": {
+    "total_results": 40000,
+    "queries_with_results": 800,
+    "avg_candidates_per_query": 50.0,
+    "reranking_depth": 50
+  },
+  "metrics": {
+    "RR": 0.007265875265511623,
+    "nDCG@10": 0.003410490785844435,
+    "AP": 0.001495214511337995,
+    "nDCG@20": 0.005433127844975792,
+    "R@100": 0.020528309720532528,
+    "P@10": 0.002199223803363519
+  },
+  "timing": {
+    "total_reranking_sec": 20.043338298797607,
+    "avg_time_per_query_sec": 0.02505417287349701,
+    "avg_time_per_pair_sec": 0.0005010834574699402,
+    "throughput_pairs_per_sec": 1995.6755408553668,
+    "throughput_queries_per_sec": 39.91351081710733
+  },
+  "comparison": {
+    "bm25_ndcg10": 0.002502018030111138,
+    "semantic_ndcg10": 0.0031255972570394456,
+    "cross_encoder_ndcg10": 0.003410490785844435,
+    "semantic_improvement_percent": 24.923050890269113,
+    "ce_improvement_percent": 9.11485087092889,
+    "total_improvement_percent": 36.30960068233175
+  },
+  "reranking_analysis": {
+    "avg_semantic_ce_correlation": -0.4288876060629807,
+    "ce_score_statistics": {
+      "min": -11.195250511169434,
+      "max": 9.897795677185059,
+      "mean": 3.9624269008636475,
+      "std": 3.5581321716308594
+    }
+  },
+  "config": {
+    "batch_size": 32,
+    "model_name": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+    "top_k": 50
+  }
+}

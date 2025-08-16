@@ -1,0 +1,57 @@
+{
+  "model": "BiEncoder_Semantic",
+  "bi_encoder_model": "all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "dataset": {
+    "total_documents": 20000,
+    "total_queries": 800
+  },
+  "performance": {
+    "total_results": 80000,
+    "queries_with_results": 800,
+    "success_rate": 1.0
+  },
+  "metrics": {
+    "nDCG@20": 0.005176788973384559,
+    "AP": 0.001920238611559353,
+    "RR": 0.01047600833684417,
+    "R@100": 0.04193340670777696,
+    "nDCG@10": 0.0031255972570394456,
+    "P@10": 0.0020698576972833123
+  },
+  "timing": {
+    "corpus_encoding_sec": 13.016245603561401,
+    "index_build_sec": 7.480986833572388,
+    "query_stats_ms": {
+      "mean_ms": 6.677190363407135,
+      "p50_ms": 5.621552467346191,
+      "p95_ms": 10.111176967620848,
+      "p99_ms": 16.361923217773427,
+      "min_ms": 5.300283432006836,
+      "max_ms": 35.427093505859375
+    }
+  },
+  "system": {
+    "corpus_embeddings_mb": 29.296875,
+    "faiss_index_mb": 29.296875,
+    "total_memory_mb": 58.59375
+  },
+  "config": {
+    "bi_encoder": {
+      "batch_size": 64,
+      "model_name": "all-MiniLM-L6-v2",
+      "top_k": 100
+    },
+    "faiss": {
+      "M": 32,
+      "efConstruction": 200,
+      "efSearch": 64,
+      "index_type": "HNSW"
+    }
+  },
+  "comparison_with_bm25": {
+    "bm25_ndcg10": 0.002502018030111138,
+    "semantic_ndcg10": 0.0031255972570394456,
+    "improvement_percent": 24.923050890269113
+  }
+}

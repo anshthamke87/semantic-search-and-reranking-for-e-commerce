@@ -1,0 +1,9 @@
+component,size_mb,description,build_time_sec,memory_type
+BM25_Index,150.0,Lucene-based inverted index,0.8,Disk
+Corpus_Embeddings,29.3,384-dim embeddings for 20K products,13.0,Disk
+FAISS_Index,29.3,HNSW index for semantic search,7.5,Disk
+Model_BiEncoder,90.2,all-MiniLM-L6-v2 parameters,5.2,GPU_Memory
+Model_CrossEncoder,67.1,ms-marco-MiniLM-L-6-v2 parameters,3.8,GPU_Memory
+Peak_RAM_Usage,850.0,Maximum runtime memory,N/A,System_RAM
+Total_Disk_Storage,208.6,All persistent components,N/A,Disk
+Total_GPU_Memory,157.3,Active models during inference,N/A,GPU_Memory

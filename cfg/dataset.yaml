@@ -1,0 +1,6 @@
+max_judgments_per_query: 100
+min_judgments_per_query: 5
+name: amazon_esci
+random_seed: 42
+target_products: 20000
+target_queries: 800

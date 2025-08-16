@@ -1,0 +1,801 @@
+query_id,query
+Q000000,portable monitor
+Q000001,sony case
+Q000002,silver headphones
+Q000003,portable storage
+Q000004,portable fitness tracker
+Q000005,ravpower headphones
+Q000006,chair
+Q000007,portable headphones
+Q000008,ravpower mouse
+Q000009,hp mouse
+Q000010,wireless desk
+Q000011,wireless adapter
+Q000012,blue keyboard
+Q000013,logitech accessories
+Q000014,portable organizer
+Q000015,blue case
+Q000016,sony accessories
+Q000017,portable tracker
+Q000018,mouse
+Q000019,electronics products
+Q000020,best tracker
+Q000021,wireless equipment
+Q000022,samsung accessories
+Q000023,hp electronics
+Q000024,jbl case
+Q000025,anker products
+Q000026,samsung keyboard
+Q000027,best scale
+Q000028,keyboard
+Q000029,accessories products
+Q000030,portable water bottle
+Q000031,best headphones
+Q000032,wireless speaker
+Q000033,portable chair
+Q000034,wireless headphones
+Q000035,wireless scale
+Q000036,best laptop
+Q000037,samsung case
+Q000038,headphones
+Q000039,ravpower keyboard
+Q000040,anker
+Q000041,apple products
+Q000042,amazonbasics mouse
+Q000043,hp products
+Q000044,wireless screen protector
+Q000045,professional speaker
+Q000046,desk organizer
+Q000047,bose cable
+Q000048,white charger
+Q000049,phone charger
+Q000050,tracker
+Q000051,amazonbasics charger
+Q000052,organizer
+Q000053,samsung charger
+Q000054,portable lamp
+Q000055,sony headphones
+Q000056,ravpower products
+Q000057,red headphones
+Q000058,jbl headphones
+Q000059,black charger
+Q000060,logitech case
+Q000061,gaming mouse
+Q000062,sony cable
+Q000063,amazonbasics electronics
+Q000064,portable battery
+Q000065,aukey mouse
+Q000066,bose headphones
+Q000067,home kitchen
+Q000068,jabra charger
+Q000069,aukey
+Q000070,sports products
+Q000071,accessories
+Q000072,bose mouse
+Q000073,best holder
+Q000074,logitech electronics
+Q000075,logitech keyboard
+Q000076,desk lamp
+Q000077,office products
+Q000078,fitness tracker
+Q000079,hub
+Q000080,jbl cable
+Q000081,best lamp
+Q000082,wireless tracker
+Q000083,hp headphones
+Q000084,laptop stand
+Q000085,sony
+Q000086,blue mouse
+Q000087,dell products
+Q000088,best mount
+Q000089,portable desk
+Q000090,lamp
+Q000091,dell keyboard
+Q000092,laptop charger
+Q000093,wireless holder
+Q000094,office chair
+Q000095,computers products
+Q000096,dell cable
+Q000097,best adapter
+Q000098,samsung mouse
+Q000099,anker case
+Q000100,best webcam
+Q000101,health products
+Q000102,apple
+Q000103,anker mouse
+Q000104,wireless battery
+Q000105,bose keyboard
+Q000106,wireless mount
+Q000107,usb cable
+Q000108,adapter
+Q000109,ravpower charger
+Q000110,portable keyboard
+Q000111,best charger
+Q000112,apple electronics
+Q000113,best organizer
+Q000114,portable hub
+Q000115,best chair
+Q000116,portable cable
+Q000117,bose charger
+Q000118,wireless water bottle
+Q000119,best battery
+Q000120,phone mount
+Q000121,wireless hub
+Q000122,premium adapter
+Q000123,wireless speakers
+Q000124,best hub
+Q000125,red charger
+Q000126,computer speakers
+Q000127,professional adapter
+Q000128,amazonbasics accessories
+Q000129,jabra keyboard
+Q000130,apple accessories
+Q000131,black headphones
+Q000132,best cable
+Q000133,red keyboard
+Q000134,best case
+Q000135,wireless cable
+Q000136,samsung computers
+Q000137,wireless bluetooth headphones
+Q000138,anker computers
+Q000139,sony electronics
+Q000140,anker keyboard
+Q000141,best mouse
+Q000142,storage
+Q000143,best water bottle
+Q000144,portable stand
+Q000145,wireless webcam
+Q000146,tools home improvement
+Q000147,portable holder
+Q000148,white headphones
+Q000149,samsung electronics
+Q000150,jabra products
+Q000151,portable charger
+Q000152,health personal care
+Q000153,samsung headphones
+Q000154,red case
+Q000155,hp computers
+Q000156,portable equipment
+Q000157,hp cable
+Q000158,portable mouse
+Q000159,electronics
+Q000160,computer monitor
+Q000161,portable screen protector
+Q000162,portable scale
+Q000163,compact mouse
+Q000164,webcam
+Q000165,gaming headset
+Q000166,bose
+Q000167,professional headphones
+Q000168,aukey case
+Q000169,silver case
+Q000170,bluetooth speaker
+Q000171,charger
+Q000172,compact charger
+Q000173,white keyboard
+Q000174,dell charger
+Q000175,black case
+Q000176,black keyboard
+Q000177,compact adapter
+Q000178,dell electronics
+Q000179,hp
+Q000180,professional charger
+Q000181,compact speaker
+Q000182,amazonbasics
+Q000183,blue charger
+Q000184,wireless laptop
+Q000185,logitech headphones
+Q000186,holder
+Q000187,jbl
+Q000188,jabra mouse
+Q000189,apple keyboard
+Q000190,water bottle
+Q000191,wireless monitor
+Q000192,anker accessories
+Q000193,amazonbasics computers
+Q000194,wireless lamp
+Q000195,sony keyboard
+Q000196,amazonbasics products
+Q000197,sports outdoors
+Q000198,ravpower
+Q000199,best coffee maker
+Q000200,amazonbasics case
+Q000201,case
+Q000202,sony mouse
+Q000203,amazonbasics keyboard
+Q000204,jabra
+Q000205,aukey keyboard
+Q000206,wireless keyboard
+Q000207,sony products
+Q000208,battery
+Q000209,best desk
+Q000210,white mouse
+Q000211,dell
+Q000212,premium charger
+Q000213,anker headphones
+Q000214,amazonbasics cable
+Q000215,sony computers
+Q000216,stand
+Q000217,jbl charger
+Q000218,aukey headphones
+Q000219,premium mouse
+Q000220,apple cable
+Q000221,hp case
+Q000222,logitech charger
+Q000223,ravpower cable
+Q000224,apple headphones
+Q000225,professional mouse
+Q000226,aukey products
+Q000227,samsung cable
+Q000228,silver charger
+Q000229,automotive products
+Q000230,compact headphones
+Q000231,computers
+Q000232,cell products
+Q000233,apple computers
+Q000234,jbl products
+Q000235,anker charger
+Q000236,apple charger
+Q000237,ravpower case
+Q000238,aukey cable
+Q000239,anker cable
+Q000240,logitech cable
+Q000241,red mouse
+Q000242,wireless chair
+Q000243,wireless fitness tracker
+Q000244,logitech mouse
+Q000245,coffee maker
+Q000246,logitech
+Q000247,best storage
+Q000248,portable mount
+Q000249,wireless stand
+Q000250,cell phones
+Q000251,jbl mouse
+Q000252,wireless storage
+Q000253,best speakers
+Q000254,wireless mouse
+Q000255,portable case
+Q000256,wireless organizer
+Q000257,mount
+Q000258,silver keyboard
+Q000259,best keyboard
+Q000260,silver mouse
+Q000261,wireless coffee maker
+Q000262,dell mouse
+Q000263,jabra cable
+Q000264,hp charger
+Q000265,equipment
+Q000266,dell headphones
+Q000267,portable webcam
+Q000268,apple case
+Q000269,home products
+Q000270,premium speaker
+Q000271,best monitor
+Q000272,dell computers
+Q000273,portable coffee maker
+Q000274,samsung products
+Q000275,logitech products
+Q000276,speakers
+Q000277,sony charger
+Q000278,amazonbasics headphones
+Q000279,cable
+Q000280,best screen protector
+Q000281,premium headphones
+Q000282,portable adapter
+Q000283,white case
+Q000284,portable speaker
+Q000285,apple mouse
+Q000286,phone case
+Q000287,bose products
+Q000288,automotive
+Q000289,desk
+Q000290,blue headphones
+Q000291,laptop
+Q000292,jabra headphones
+Q000293,wireless case
+Q000294,jbl keyboard
+Q000295,scale
+Q000296,tools products
+Q000297,logitech computers
+Q000298,dell case
+Q000299,hp keyboard
+Q000300,samsung
+Q000301,wireless charger
+Q000302,aukey charger
+Q000303,portable speakers
+Q000304,monitor
+Q000305,hp accessories
+Q000306,bose case
+Q000307,jabra case
+Q000308,anker electronics
+Q000309,black mouse
+Q000310,best fitness tracker
+Q000311,best stand
+Q000312,laptop bag
+Q000313,best equipment
+Q000314,dell accessories
+Q000315,screen protector
+Q000316,portable laptop
+Q000317,best portable monitor
+Q000318,cheap portable monitor
+Q000319,professional portable monitor
+Q000320,best portable monitor
+Q000321,cheap portable monitor
+Q000322,professional portable monitor
+Q000323,best portable monitor
+Q000324,cheap portable monitor
+Q000325,professional portable monitor
+Q000326,best portable monitor
+Q000327,cheap portable monitor
+Q000328,professional portable monitor
+Q000329,best portable monitor
+Q000330,cheap portable monitor
+Q000331,professional portable monitor
+Q000332,best portable monitor
+Q000333,cheap portable monitor
+Q000334,professional portable monitor
+Q000335,best portable monitor
+Q000336,cheap portable monitor
+Q000337,professional portable monitor
+Q000338,best portable monitor
+Q000339,cheap portable monitor
+Q000340,professional portable monitor
+Q000341,best portable monitor
+Q000342,cheap portable monitor
+Q000343,professional portable monitor
+Q000344,best portable monitor
+Q000345,cheap portable monitor
+Q000346,professional portable monitor
+Q000347,best portable monitor
+Q000348,cheap portable monitor
+Q000349,professional portable monitor
+Q000350,best portable monitor
+Q000351,cheap portable monitor
+Q000352,professional portable monitor
+Q000353,best portable monitor
+Q000354,cheap portable monitor
+Q000355,professional portable monitor
+Q000356,best portable monitor
+Q000357,cheap portable monitor
+Q000358,professional portable monitor
+Q000359,best portable monitor
+Q000360,cheap portable monitor
+Q000361,professional portable monitor
+Q000362,best portable monitor
+Q000363,cheap portable monitor
+Q000364,professional portable monitor
+Q000365,best portable monitor
+Q000366,cheap portable monitor
+Q000367,professional portable monitor
+Q000368,best portable monitor
+Q000369,cheap portable monitor
+Q000370,professional portable monitor
+Q000371,best portable monitor
+Q000372,cheap portable monitor
+Q000373,professional portable monitor
+Q000374,best portable monitor
+Q000375,cheap portable monitor
+Q000376,professional portable monitor
+Q000377,best portable monitor
+Q000378,cheap portable monitor
+Q000379,professional portable monitor
+Q000380,best portable monitor
+Q000381,cheap portable monitor
+Q000382,professional portable monitor
+Q000383,best portable monitor
+Q000384,cheap portable monitor
+Q000385,professional portable monitor
+Q000386,best portable monitor
+Q000387,cheap portable monitor
+Q000388,professional portable monitor
+Q000389,best portable monitor
+Q000390,cheap portable monitor
+Q000391,professional portable monitor
+Q000392,best portable monitor
+Q000393,cheap portable monitor
+Q000394,professional portable monitor
+Q000395,best portable monitor
+Q000396,cheap portable monitor
+Q000397,professional portable monitor
+Q000398,best portable monitor
+Q000399,cheap portable monitor
+Q000400,professional portable monitor
+Q000401,best portable monitor
+Q000402,cheap portable monitor
+Q000403,professional portable monitor
+Q000404,best portable monitor
+Q000405,cheap portable monitor
+Q000406,professional portable monitor
+Q000407,best portable monitor
+Q000408,cheap portable monitor
+Q000409,professional portable monitor
+Q000410,best portable monitor
+Q000411,cheap portable monitor
+Q000412,professional portable monitor
+Q000413,best portable monitor
+Q000414,cheap portable monitor
+Q000415,professional portable monitor
+Q000416,best portable monitor
+Q000417,cheap portable monitor
+Q000418,professional portable monitor
+Q000419,best portable monitor
+Q000420,cheap portable monitor
+Q000421,professional portable monitor
+Q000422,best portable monitor
+Q000423,cheap portable monitor
+Q000424,professional portable monitor
+Q000425,best portable monitor
+Q000426,cheap portable monitor
+Q000427,professional portable monitor
+Q000428,best portable monitor
+Q000429,cheap portable monitor
+Q000430,professional portable monitor
+Q000431,best portable monitor
+Q000432,cheap portable monitor
+Q000433,professional portable monitor
+Q000434,best portable monitor
+Q000435,cheap portable monitor
+Q000436,professional portable monitor
+Q000437,best portable monitor
+Q000438,cheap portable monitor
+Q000439,professional portable monitor
+Q000440,best portable monitor
+Q000441,cheap portable monitor
+Q000442,professional portable monitor
+Q000443,best portable monitor
+Q000444,cheap portable monitor
+Q000445,professional portable monitor
+Q000446,best portable monitor
+Q000447,cheap portable monitor
+Q000448,professional portable monitor
+Q000449,best portable monitor
+Q000450,cheap portable monitor
+Q000451,professional portable monitor
+Q000452,best portable monitor
+Q000453,cheap portable monitor
+Q000454,professional portable monitor
+Q000455,best portable monitor
+Q000456,cheap portable monitor
+Q000457,professional portable monitor
+Q000458,best portable monitor
+Q000459,cheap portable monitor
+Q000460,professional portable monitor
+Q000461,best portable monitor
+Q000462,cheap portable monitor
+Q000463,professional portable monitor
+Q000464,best portable monitor
+Q000465,cheap portable monitor
+Q000466,professional portable monitor
+Q000467,best portable monitor
+Q000468,cheap portable monitor
+Q000469,professional portable monitor
+Q000470,best portable monitor
+Q000471,cheap portable monitor
+Q000472,professional portable monitor
+Q000473,best portable monitor
+Q000474,cheap portable monitor
+Q000475,professional portable monitor
+Q000476,best portable monitor
+Q000477,cheap portable monitor
+Q000478,professional portable monitor
+Q000479,best portable monitor
+Q000480,cheap portable monitor
+Q000481,professional portable monitor
+Q000482,best portable monitor
+Q000483,cheap portable monitor
+Q000484,professional portable monitor
+Q000485,best portable monitor
+Q000486,cheap portable monitor
+Q000487,professional portable monitor
+Q000488,best portable monitor
+Q000489,cheap portable monitor
+Q000490,professional portable monitor
+Q000491,best portable monitor
+Q000492,cheap portable monitor
+Q000493,professional portable monitor
+Q000494,best portable monitor
+Q000495,cheap portable monitor
+Q000496,professional portable monitor
+Q000497,best portable monitor
+Q000498,cheap portable monitor
+Q000499,professional portable monitor
+Q000500,best portable monitor
+Q000501,cheap portable monitor
+Q000502,professional portable monitor
+Q000503,best portable monitor
+Q000504,cheap portable monitor
+Q000505,professional portable monitor
+Q000506,best portable monitor
+Q000507,cheap portable monitor
+Q000508,professional portable monitor
+Q000509,best portable monitor
+Q000510,cheap portable monitor
+Q000511,professional portable monitor
+Q000512,best portable monitor
+Q000513,cheap portable monitor
+Q000514,professional portable monitor
+Q000515,best portable monitor
+Q000516,cheap portable monitor
+Q000517,professional portable monitor
+Q000518,best portable monitor
+Q000519,cheap portable monitor
+Q000520,professional portable monitor
+Q000521,best portable monitor
+Q000522,cheap portable monitor
+Q000523,professional portable monitor
+Q000524,best portable monitor
+Q000525,cheap portable monitor
+Q000526,professional portable monitor
+Q000527,best portable monitor
+Q000528,cheap portable monitor
+Q000529,professional portable monitor
+Q000530,best portable monitor
+Q000531,cheap portable monitor
+Q000532,professional portable monitor
+Q000533,best portable monitor
+Q000534,cheap portable monitor
+Q000535,professional portable monitor
+Q000536,best portable monitor
+Q000537,cheap portable monitor
+Q000538,professional portable monitor
+Q000539,best portable monitor
+Q000540,cheap portable monitor
+Q000541,professional portable monitor
+Q000542,best portable monitor
+Q000543,cheap portable monitor
+Q000544,professional portable monitor
+Q000545,best portable monitor
+Q000546,cheap portable monitor
+Q000547,professional portable monitor
+Q000548,best portable monitor
+Q000549,cheap portable monitor
+Q000550,professional portable monitor
+Q000551,best portable monitor
+Q000552,cheap portable monitor
+Q000553,professional portable monitor
+Q000554,best portable monitor
+Q000555,cheap portable monitor
+Q000556,professional portable monitor
+Q000557,best portable monitor
+Q000558,cheap portable monitor
+Q000559,professional portable monitor
+Q000560,best portable monitor
+Q000561,cheap portable monitor
+Q000562,professional portable monitor
+Q000563,best portable monitor
+Q000564,cheap portable monitor
+Q000565,professional portable monitor
+Q000566,best portable monitor
+Q000567,cheap portable monitor
+Q000568,professional portable monitor
+Q000569,best portable monitor
+Q000570,cheap portable monitor
+Q000571,professional portable monitor
+Q000572,best portable monitor
+Q000573,cheap portable monitor
+Q000574,professional portable monitor
+Q000575,best portable monitor
+Q000576,cheap portable monitor
+Q000577,professional portable monitor
+Q000578,best portable monitor
+Q000579,cheap portable monitor
+Q000580,professional portable monitor
+Q000581,best portable monitor
+Q000582,cheap portable monitor
+Q000583,professional portable monitor
+Q000584,best portable monitor
+Q000585,cheap portable monitor
+Q000586,professional portable monitor
+Q000587,best portable monitor
+Q000588,cheap portable monitor
+Q000589,professional portable monitor
+Q000590,best portable monitor
+Q000591,cheap portable monitor
+Q000592,professional portable monitor
+Q000593,best portable monitor
+Q000594,cheap portable monitor
+Q000595,professional portable monitor
+Q000596,best portable monitor
+Q000597,cheap portable monitor
+Q000598,professional portable monitor
+Q000599,best portable monitor
+Q000600,cheap portable monitor
+Q000601,professional portable monitor
+Q000602,best portable monitor
+Q000603,cheap portable monitor
+Q000604,professional portable monitor
+Q000605,best portable monitor
+Q000606,cheap portable monitor
+Q000607,professional portable monitor
+Q000608,best portable monitor
+Q000609,cheap portable monitor
+Q000610,professional portable monitor
+Q000611,best portable monitor
+Q000612,cheap portable monitor
+Q000613,professional portable monitor
+Q000614,best portable monitor
+Q000615,cheap portable monitor
+Q000616,professional portable monitor
+Q000617,best portable monitor
+Q000618,cheap portable monitor
+Q000619,professional portable monitor
+Q000620,best portable monitor
+Q000621,cheap portable monitor
+Q000622,professional portable monitor
+Q000623,best portable monitor
+Q000624,cheap portable monitor
+Q000625,professional portable monitor
+Q000626,best portable monitor
+Q000627,cheap portable monitor
+Q000628,professional portable monitor
+Q000629,best portable monitor
+Q000630,cheap portable monitor
+Q000631,professional portable monitor
+Q000632,best portable monitor
+Q000633,cheap portable monitor
+Q000634,professional portable monitor
+Q000635,best portable monitor
+Q000636,cheap portable monitor
+Q000637,professional portable monitor
+Q000638,best portable monitor
+Q000639,cheap portable monitor
+Q000640,professional portable monitor
+Q000641,best portable monitor
+Q000642,cheap portable monitor
+Q000643,professional portable monitor
+Q000644,best portable monitor
+Q000645,cheap portable monitor
+Q000646,professional portable monitor
+Q000647,best portable monitor
+Q000648,cheap portable monitor
+Q000649,professional portable monitor
+Q000650,best portable monitor
+Q000651,cheap portable monitor
+Q000652,professional portable monitor
+Q000653,best portable monitor
+Q000654,cheap portable monitor
+Q000655,professional portable monitor
+Q000656,best portable monitor
+Q000657,cheap portable monitor
+Q000658,professional portable monitor
+Q000659,best portable monitor
+Q000660,cheap portable monitor
+Q000661,professional portable monitor
+Q000662,best portable monitor
+Q000663,cheap portable monitor
+Q000664,professional portable monitor
+Q000665,best portable monitor
+Q000666,cheap portable monitor
+Q000667,professional portable monitor
+Q000668,best portable monitor
+Q000669,cheap portable monitor
+Q000670,professional portable monitor
+Q000671,best portable monitor
+Q000672,cheap portable monitor
+Q000673,professional portable monitor
+Q000674,best portable monitor
+Q000675,cheap portable monitor
+Q000676,professional portable monitor
+Q000677,best portable monitor
+Q000678,cheap portable monitor
+Q000679,professional portable monitor
+Q000680,best portable monitor
+Q000681,cheap portable monitor
+Q000682,professional portable monitor
+Q000683,best portable monitor
+Q000684,cheap portable monitor
+Q000685,professional portable monitor
+Q000686,best portable monitor
+Q000687,cheap portable monitor
+Q000688,professional portable monitor
+Q000689,best portable monitor
+Q000690,cheap portable monitor
+Q000691,professional portable monitor
+Q000692,best portable monitor
+Q000693,cheap portable monitor
+Q000694,professional portable monitor
+Q000695,best portable monitor
+Q000696,cheap portable monitor
+Q000697,professional portable monitor
+Q000698,best portable monitor
+Q000699,cheap portable monitor
+Q000700,professional portable monitor
+Q000701,best portable monitor
+Q000702,cheap portable monitor
+Q000703,professional portable monitor
+Q000704,best portable monitor
+Q000705,cheap portable monitor
+Q000706,professional portable monitor
+Q000707,best portable monitor
+Q000708,cheap portable monitor
+Q000709,professional portable monitor
+Q000710,best portable monitor
+Q000711,cheap portable monitor
+Q000712,professional portable monitor
+Q000713,best portable monitor
+Q000714,cheap portable monitor
+Q000715,professional portable monitor
+Q000716,best portable monitor
+Q000717,cheap portable monitor
+Q000718,professional portable monitor
+Q000719,best portable monitor
+Q000720,cheap portable monitor
+Q000721,professional portable monitor
+Q000722,best portable monitor
+Q000723,cheap portable monitor
+Q000724,professional portable monitor
+Q000725,best portable monitor
+Q000726,cheap portable monitor
+Q000727,professional portable monitor
+Q000728,best portable monitor
+Q000729,cheap portable monitor
+Q000730,professional portable monitor
+Q000731,best portable monitor
+Q000732,cheap portable monitor
+Q000733,professional portable monitor
+Q000734,best portable monitor
+Q000735,cheap portable monitor
+Q000736,professional portable monitor
+Q000737,best portable monitor
+Q000738,cheap portable monitor
+Q000739,professional portable monitor
+Q000740,best portable monitor
+Q000741,cheap portable monitor
+Q000742,professional portable monitor
+Q000743,best portable monitor
+Q000744,cheap portable monitor
+Q000745,professional portable monitor
+Q000746,best portable monitor
+Q000747,cheap portable monitor
+Q000748,professional portable monitor
+Q000749,best portable monitor
+Q000750,cheap portable monitor
+Q000751,professional portable monitor
+Q000752,best portable monitor
+Q000753,cheap portable monitor
+Q000754,professional portable monitor
+Q000755,best portable monitor
+Q000756,cheap portable monitor
+Q000757,professional portable monitor
+Q000758,best portable monitor
+Q000759,cheap portable monitor
+Q000760,professional portable monitor
+Q000761,best portable monitor
+Q000762,cheap portable monitor
+Q000763,professional portable monitor
+Q000764,best portable monitor
+Q000765,cheap portable monitor
+Q000766,professional portable monitor
+Q000767,best portable monitor
+Q000768,cheap portable monitor
+Q000769,professional portable monitor
+Q000770,best portable monitor
+Q000771,cheap portable monitor
+Q000772,professional portable monitor
+Q000773,best portable monitor
+Q000774,cheap portable monitor
+Q000775,professional portable monitor
+Q000776,best portable monitor
+Q000777,cheap portable monitor
+Q000778,professional portable monitor
+Q000779,best portable monitor
+Q000780,cheap portable monitor
+Q000781,professional portable monitor
+Q000782,best portable monitor
+Q000783,cheap portable monitor
+Q000784,professional portable monitor
+Q000785,best portable monitor
+Q000786,cheap portable monitor
+Q000787,professional portable monitor
+Q000788,best portable monitor
+Q000789,cheap portable monitor
+Q000790,professional portable monitor
+Q000791,best portable monitor
+Q000792,cheap portable monitor
+Q000793,professional portable monitor
+Q000794,best portable monitor
+Q000795,cheap portable monitor
+Q000796,professional portable monitor
+Q000797,best portable monitor
+Q000798,cheap portable monitor
+Q000799,professional portable monitor
