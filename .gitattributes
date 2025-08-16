@@ -1,0 +1,24 @@
+# Override GitHub language detection
+*.html linguist-documentation=true
+*.css linguist-documentation=true
+*.js linguist-documentation=true
+
+# Mark Python as the primary language
+*.py linguist-language=Python
+
+# Mark Jupyter notebooks as Python
+*.ipynb linguist-language=Python
+
+# Documentation files
+*.md linguist-documentation=true
+*.txt linguist-documentation=true
+
+# Data files (don't count toward language stats)
+*.csv linguist-generated=true
+*.json linguist-generated=true
+*.png linguist-generated=true
+*.npy linguist-generated=true
+
+# Config files
+Dockerfile linguist-language=Docker
+Makefile linguist-language=Makefile
