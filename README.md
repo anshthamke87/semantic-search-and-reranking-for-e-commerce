@@ -20,6 +20,57 @@ Query → BM25 Baseline → Semantic Retrieval → Cross-Encoder Reranking → F
 | **+ Cross-Encoder** | 0.0034 | **+9.1%** | ~25ms |
 | **Total Improvement** | | **+36.3%** | |
 
+
+
+## 🚀 Quick Start
+
+### Option 1: Using Python Scripts (Recommended for automation)
+```bash
+# Clone the repository
+git clone https://github.com/anshthamke87/semantic-search-and-reranking-for-e-commerce.git
+cd semantic-search-and-reranking-for-e-commerce
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run individual phases
+python scripts/01_setup_and_data.py      # Data preparation
+python scripts/02_bm25_baseline.py       # BM25 baseline (CPU)
+python scripts/03_semantic_retrieval.py  # Semantic retrieval (GPU recommended)
+python scripts/04_cross_encoder_reranking.py  # Cross-encoder reranking (GPU recommended)
+
+# Or run complete pipeline
+make pipeline
+
+# Start demo
+streamlit run app/app.py
+```
+
+### Option 2: Using Jupyter Notebooks (Recommended for learning)
+```bash
+# Open in Google Colab or Jupyter
+notebooks/01_setup_and_data.ipynb
+notebooks/02_bm25_baseline.ipynb
+notebooks/03_semantic_retrieval.ipynb
+notebooks/04_cross_encoder_reranking.ipynb
+notebooks/05_demo_and_documentation.ipynb
+```
+
+### Option 3: Using Docker
+```bash
+# Build and run
+docker build -t semantic-search-pipeline .
+docker run -p 8000:8000 semantic-search-pipeline
+```
+
+## 📁 Project Structure
+
+The repository works with **relative paths** and can be run from any location:
+- Scripts automatically detect project root directory
+- All paths are relative to project root
+- Works in Google Colab, local Jupyter, or command line
+
+
 ## 🔧 Technical Implementation
 
 ### Stage 1: BM25 Baseline
